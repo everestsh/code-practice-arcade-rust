@@ -10,10 +10,9 @@ create-missing = false
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "navy"
-google-analytics = "UA-160717450-2"
-git-repository-url = "https://github.com/Binlogo/Knowledge-Track"
+git-repository-url = "https://github.com/everestsh/code-practice-arcade-rust/"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/Binlogo/Knowledge-Track/edit/main/{path}"
+edit-url-template = "https://github.com/everestsh/code-practice-arcade-rust/edit/main/{path}"
 
 [output.html.fold]
 enable = false
